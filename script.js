@@ -15,3 +15,5 @@ let message = (login == 'Сотрудник') ? 'Привет' :
             (login == '') ? 'Нет логина' :
             '';
 alert(message );
+
+console.log('test 2')
